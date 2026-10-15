@@ -1,0 +1,7 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "CloneKit",
+  "description": "Know-how packaged as kits any AI can use, through one MCP server, a CLI and Agent Skills.",
+  "folders": ["skills"],
+  "rules": ["Connect with https://clonekit.ai/mcp", "Search with search_kits before writing a process from scratch"]
+}
